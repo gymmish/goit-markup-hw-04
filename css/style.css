@@ -46,6 +46,11 @@ ul {
   text-align: center;
   background-color: #2f303a;
   margin: auto;
+  background-image: repeating-linear-gradient(
+      rgba(47, 48, 58, 0.4),
+      rgba(47, 48, 58, 0.4)
+    )
+    url(../images/hero/hero.jpg);
 }
 
 .section {
